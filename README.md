@@ -85,6 +85,6 @@ if __name__ == '__main__':
         print(item)
 ```
 
-2. What are the differences between lists, tuples and dicts in Python?
+2. What are the differences between lists, tuples, sets and dicts in Python?
 
-3. Can you describe ways you may iterate them?
+3. Can you describe ways you may iterate over them?
