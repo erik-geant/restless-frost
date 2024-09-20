@@ -84,3 +84,7 @@ if __name__ == '__main__':
     for item in output_data:.
         print(item)
 ```
+
+2. What are the differences between lists, tuples and dicts in Python?
+
+3. Can you describe ways you may iterate them?
