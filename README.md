@@ -88,3 +88,15 @@ if __name__ == '__main__':
 2. What are the differences between lists, tuples, sets and dicts in Python?
 
 3. Can you describe ways you may iterate over them?
+
+4. Imagine that you are writing an application that will apply the same logic to
+   process multiple data sets in parallel.  Would you do this using mulitple threads
+   or multiple processes (or some other method)?  Why?
+
+5. Write a short Python program, or function, that loads the `urls.json` file in this
+   repository.  It then prints out to the console for each element of the list, only for
+   those elements of the list with `public == True`, text in the format:
+
+   ```html
+    <a href="url">title</a>
+   ```

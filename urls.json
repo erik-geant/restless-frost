@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.python.org/dev/peps/pep-0008/",
+        "title": "Python Style Guide",
+        "public": true
+    },
+    {
+        "url": "https://www.geant.org/top-secret/",
+        "title": "Top Secret",
+        "public": false
+    },
+    {
+        "url": "https://www.geant.org/",
+        "title": "GEANT home page",
+        "public": true
+    },
+    {
+        "url": "https://www.geant.org/internal-finance-expense-claims/",
+        "title": "Portal for submitting expense claims",
+        "public": false
+    }
+]
