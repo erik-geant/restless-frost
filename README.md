@@ -35,6 +35,7 @@ if __name__ == '__main__':
 ```
 
 snippet 2
+
 ```python
 
 def square_numbers(data):
@@ -62,6 +63,7 @@ if __name__ == '__main__':
 ```
 
 snippet3
+
 ```python
 
 def _is_even(number):
@@ -93,7 +95,20 @@ if __name__ == '__main__':
    process multiple data sets in parallel.  Would you do this using mulitple threads
    or multiple processes (or some other method)?  Why?
 
-5. Write a short Python program, or function, that loads the `urls.json` file in this
+5. Propose some unit tests for the following function:
+
+   ```python
+   def is_within_one_week(date):
+   “””
+    `date` should be a string representing some day/time that can be parsed
+       This function returns True if the `date` string is within 1 week of the
+       current time (before or after). Otherwise it returns False.
+   “””
+       # todo
+       pass
+   ```
+
+6. Write a short Python program, or function, that loads the `urls.json` file in this
    repository.  It then prints out to the console for each element of the list, only for
    those elements of the list with `public == True`, text in the format:
 
